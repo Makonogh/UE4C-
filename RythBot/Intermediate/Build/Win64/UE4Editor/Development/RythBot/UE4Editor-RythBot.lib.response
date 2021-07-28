@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RythBot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\RythBotEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\RythBot.cpp.obj"
+"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\RythBotGameModeBase.cpp.obj"
+"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\RythBot.init.gen.cpp.obj"
+"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\RythBotGameModeBase.gen.cpp.obj"
+"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\Default.rc2.res"
+/OUT:"C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\UE4Editor-RythBot.lib"
+/INCLUDE:IMPLEMENT_MODULE_RythBot

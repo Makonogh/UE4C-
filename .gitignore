@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/RythBot/Saved
+/RythBot/Content/level/TestLevel.umap.BASE.umap
+/RythBot/Content/level/TestLevel.umap.LOCAL.umap
+/RythBot/Content/level/TestLevel.umap.REMOTE.umap
+/RythBot/Content/Mannequin
+/RythBot/Content/Music/test.uasset
+/RythBot/Content/Resorce
+/RythBot/Content/ThirdPerson
