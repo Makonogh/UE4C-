@@ -80,3 +80,8 @@ DerivedDataCache/*
 /RythBot/Content/Music/test.uasset
 /RythBot/Content/Resorce
 /RythBot/Content/ThirdPerson
+/RythBot/Intermediate/CachedAssetRegistry.bin
+/RythBot/Intermediate/TargetInfo.json
+/RythBot/Intermediate/ProjectFiles
+/RythBot/Intermediate/ReimportCache
+/RythBot/Intermediate/Build

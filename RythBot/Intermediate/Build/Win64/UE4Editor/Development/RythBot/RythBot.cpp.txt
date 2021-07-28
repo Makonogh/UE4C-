@@ -1,2 +1,0 @@
-C:\Users\asheg\Desktop\study\UE4\RythBot\Intermediate\Build\Win64\UE4Editor\Development\RythBot\Definitions.RythBot.h
-C:\Users\asheg\Desktop\study\UE4\RythBot\Source\RythBot\RythBot.h
